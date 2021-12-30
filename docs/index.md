@@ -1,37 +1,13 @@
-## Welcome to GitHub Pages
+## Nieuw huis / Nieuwe buren
 
-You can use the [editor on GitHub](https://github.com/dvanlaerhoven/14-01-2021/edit/gh-pages/docs/index.md) to maintain and preview the content for your website in Markdown files.
+Binnenkort worden wij officieel de nieuwe eigenaars van de woning te zandstraat 32. Graag zouden we jullie uitnodigen voor een hapje en een drankje in onze tuin. Julie zijn welkom op 14 januari vanaf 19u. Denk eraan om warme kledij aan te doen. Laat je even weten of je er bij kan zijn?
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
+### CORONA-REGELS
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Voorlopig mogen evenementen in openlucht plaatsvinden. Een tent plaatsen is niet toegelaten. Wij voorzien een aantal vuurschalen waar jij je aan kan warmen, maar vergeet zeker niet uw dikke jas aan te trekken! Wijzigt de situatie, dan kan je dit zeker hier lezen!
 
-```markdown
-Syntax highlighted code block
 
-# Header 1
-## Header 2
-### Header 3
+### Contact
 
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/dvanlaerhoven/14-01-2021/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+Heb je vragen, dan kan je ons bereiken via mail op vanlaerhovendries@gmail.com
